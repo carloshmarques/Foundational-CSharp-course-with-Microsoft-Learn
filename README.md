@@ -20,7 +20,12 @@
 
 ## 🤔 **About the project**
 
-* <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
+* This repository is a record of monitoring and maintenance of the software with the aim of consulting and updating it as deemed necessary at a given time.
+* This course was created on the Microsof Learn website and offers a comprehensive introduction to C# programming,
+covering its main concepts, syntax and practical application in software development.
+* Through hands-on exercises and projects, I will learn (or so I hope) the fundamentals of C#, including variables,
+data types, control structures, and object-oriented programming principles.
+* By the end of this course, I hope to have gained the practical skills and knowledge necessary to confidently leverage C# to create applications.
 
 ---
 
