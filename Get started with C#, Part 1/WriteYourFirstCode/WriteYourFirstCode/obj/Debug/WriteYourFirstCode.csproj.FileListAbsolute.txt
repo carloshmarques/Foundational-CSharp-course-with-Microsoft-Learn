@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\WriteYourFirstCode\WriteYourFirstCode\bin\Debug\WriteYourFirstCode.exe.config
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\WriteYourFirstCode\WriteYourFirstCode\bin\Debug\WriteYourFirstCode.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\WriteYourFirstCode\WriteYourFirstCode\bin\Debug\WriteYourFirstCode.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\WriteYourFirstCode\WriteYourFirstCode\obj\Debug\WriteYourFirstCode.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\WriteYourFirstCode\WriteYourFirstCode\obj\Debug\WriteYourFirstCode.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\WriteYourFirstCode\WriteYourFirstCode\obj\Debug\WriteYourFirstCode.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\WriteYourFirstCode\WriteYourFirstCode\obj\Debug\WriteYourFirstCode.pdb
