@@ -5,7 +5,7 @@
 <div align="center">
   <!-- Change your logo -->
   <a href="https://github.com/carloshmarques/Foundational-CSharp-course-with-Microsoft-Learn">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@carloshmarques/Foundational-CSharp-course-with-Microsoft-Learn's logo">
+    <img width="100%" src="https://i.imgur.com/rj1HPjW.png" alt="@carloshmarques/Foundational-CSharp-course-with-Microsoft-Learn's logo">
   </a>
   <br>
   <a href="https://github.com/carloshmarques/Foundational-CSharp-course-with-Microsoft-Learn/issues">
@@ -58,7 +58,7 @@
 
 <!-- Change your small logo -->
 <a href="https://github.com/carloshmarques/Foundational CSharp-course-with-Microsoft-Learn">
-  <img alt="@carloshmarques/Foundational CSharp-course-with-Microsoft-Learn's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
+  <img alt="@carloshmarques/Foundational CSharp-course-with-Microsoft-Learn's brand logo without text" align="right"  src="https://i.imgur.com/EywWORF.png" width="10%" />
 </a>
 
 
