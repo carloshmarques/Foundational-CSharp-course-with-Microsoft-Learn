@@ -20,7 +20,8 @@
 
 ## 🤔 **About the project**
 
-* This repository is a record of monitoring and maintenance of the software with the aim of consulting and updating it as deemed necessary at a given time.
+* This repository is a record of monitoring and maintenance of the code used in the course,
+with the aim of consulting and updating it as necessary and at an opportune time and for learning purposes only.
 * This course was created on the Microsof Learn website and offers a comprehensive introduction to C# programming,
 covering its main concepts, syntax and practical application in software development.
 * Through hands-on exercises and projects, I will learn (or so I hope) the fundamentals of C#, including variables,
@@ -31,17 +32,19 @@ data types, control structures, and object-oriented programming principles.
 
 ## ⚡ **Installation**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+* The learning process and its definitions are provided by the Microsoft Learn website, so additional instructions are provided there.
 
 ---
 
 ## 🚀 **Usage**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
+* This repository and its use are entirely dependent on current developments and are presented as you go.
+It is made up of six modules and each module is subdivided into learning units.
+* Learn more on the Microsoft Learn website.
 
----
+<!-- --- -->
 
-## 🌲 **Project tree**
+<!-- ## 🌲 **Project tree**-->
 
 <!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] -->
 
