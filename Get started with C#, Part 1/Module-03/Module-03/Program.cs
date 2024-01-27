@@ -71,8 +71,6 @@ namespace Module_03
             Console.WriteLine("Invoice: 1022\t\tComplete!");
             Console.WriteLine("\nOutput Directory:\t");
 
-
-
             // Verbatim string literal
 
             // A verbatim string literal will keep all whitespace and characters without the need to escape the backslash.
@@ -119,8 +117,6 @@ namespace Module_03
                 Use the \u plus a four-character code to represent Unicode characters (UTF-16) in a string.
                 Unicode characters may not print correctly depending on the application. 
              */
-
-
         }
     }
 }

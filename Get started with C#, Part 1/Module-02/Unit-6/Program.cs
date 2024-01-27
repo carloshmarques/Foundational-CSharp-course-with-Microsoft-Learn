@@ -36,7 +36,7 @@ namespace Unit_6
             string firstName = "Bob";
             int messages = 3;
             decimal temperature = 34.4m;
-            // Output teh message to console:
+            // Write the message to the console:
             Console.Write("Hello,");
             Console.Write(" ");
             Console.Write(firstName + "!");
