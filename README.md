@@ -40,7 +40,7 @@ data types, control structures, and object-oriented programming principles.
 
 * This course repository and its use depend entirely on current developments and are presented as you go.
 It consists of 6 parts and each part is subdivided into learning modules, which in turn are subdivided into smaller units.
-* Learn more on the Microsoft Learn website.
+* See more on the Microsoft Learn website.
 
 <!-- --- -->
 
