@@ -38,6 +38,7 @@ namespace Module_06
             Psychology 101      4       3
 
             Final GPA:          3.35
+
              */
 
             // Setup:
@@ -58,7 +59,81 @@ namespace Module_06
             int course4Credit = 4;
             int course5Credit = 3;
 
-            // Continue on tomorrow:
+            // Unit-3
+            // Exercise - Store the numeric grade values for each course
+            /* 
+            Review the mockup:
+
+            Course          Grade   Credit Hours	
+            English 101         4       3
+            Algebra 101         3       3
+            Biology 101         3       4
+            Computer Science I  3       4
+            Psychology 101      4       3
+
+            Final GPA:          3.35
+
+            */
+
+            // Create variables to store the grade values
+            int gradeA = 4;
+            int gradeB = 3;
+
+            // Create variables that will store the grades for each course;
+            int course1Grade = gradeA;
+            int course2Grade = gradeB;
+            int course3Grade = gradeB;
+            int course4Grade = gradeB;
+            int course5Grade = gradeA;
+
+            // Unit-4 
+            // Calculate the sums of credit hours and grade points
+            // Create variables to store the average
+            int totalCreditHours = 0;
+
+            // Increment the sum to represent the total number 
+            // of credit hours
+
+            totalCreditHours += course1Credit;
+            totalCreditHours += course2Credit;
+            totalCreditHours += course3Credit;
+            totalCreditHours += course4Credit;
+            totalCreditHours += course5Credit;
+
+            // create a variable that will store,
+            // the total number of grade points earned for each course, 
+            int totalGradePoints = 0;
+
+            // increment the sum by the grade points earned for the first course
+            totalGradePoints += course1Credit * course1Grade;
+            totalGradePoints += course2Credit * course2Grade;
+            totalGradePoints += course3Credit * course3Grade;
+            totalGradePoints += course4Credit * course4Grade;
+            totalGradePoints += course5Credit * course5Grade;
+
+            // Format the decimal output
+            decimal gradePointAverage = (decimal) totalGradePoints / totalCreditHours;
+            //  initialize a variable that will store the leading digit of the GPA
+            int leadingDigit = (int)gradePointAverage;
+            // initialize a variable that will store the first two digits after the decimal
+            int firstDigit = (int)(gradePointAverage * 10) % 10;
+            int secondDigit = (int)(gradePointAverage * 100) % 10;
+            // Unit-6
+            // Format the output using escaped character sequences
+
+            Console.WriteLine($"Student: {studentName}\n");
+            Console.WriteLine("Course\t\t\t\tGrade\tCredit Hours");
+            Console.WriteLine($"{course1Name}\t\t\t{course1Grade}\t\t{course1Credit}");
+            Console.WriteLine($"{course2Name}\t\t\t{course2Grade}\t\t{course2Credit}");
+            Console.WriteLine($"{course3Name}\t\t\t{course3Grade}\t\t{course3Credit}");
+            Console.WriteLine($"{course4Name}\t\t{course4Grade}\t\t{course4Credit}");
+            Console.WriteLine($"{course5Name}\t\t\t{course5Grade}\t\t{course5Credit}");
+            Console.WriteLine($"\nFinal GPA:\t\t\t{leadingDigit}.{firstDigit}{secondDigit}");
+
+
+
+
+
         }
     }
 }
