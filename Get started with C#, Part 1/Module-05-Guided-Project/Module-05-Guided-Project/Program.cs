@@ -98,8 +98,6 @@ namespace Module_05_Guided_Project
             decimal zahirahScore = (decimal)zahirahSum / currentAssignments;
             decimal jeongScore = (decimal)jeongSum / currentAssignments;
 
-
-
             // Console.WriteLine() statements that display the student name
             // and the value of their summed assignment scores:
 
@@ -110,17 +108,12 @@ namespace Module_05_Guided_Project
 
             // Format the console output
             Console.WriteLine("Student\t\tGrade\n");
-            // Do teh same in the rest of Console.WriteLine Statments:
+            // Do the same in the rest of Console.WriteLine Statments:
 
             Console.WriteLine("Sophia:\t\t" + sophiaScore + "\tA");
             Console.WriteLine("Nicolas:\t" + nicolasScore + "\tB");
             Console.WriteLine("Zahirah:\t" + zahirahScore + "\tB");
             Console.WriteLine("Jeong:\t\t" + jeongScore + "\tA");
-
-
-
-
-
 
         }
     }
