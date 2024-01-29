@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\Module-05-Guided-Project\Module-05-Guided-Project\bin\Debug\Module-05-Guided-Project.exe.config
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\Module-05-Guided-Project\Module-05-Guided-Project\bin\Debug\Module-05-Guided-Project.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\Module-05-Guided-Project\Module-05-Guided-Project\bin\Debug\Module-05-Guided-Project.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\Module-05-Guided-Project\Module-05-Guided-Project\obj\Debug\Module-05-Guided-Project.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\Module-05-Guided-Project\Module-05-Guided-Project\obj\Debug\Module-05-Guided-Project.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\Module-05-Guided-Project\Module-05-Guided-Project\obj\Debug\Module-05-Guided-Project.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 1\Module-05-Guided-Project\Module-05-Guided-Project\obj\Debug\Module-05-Guided-Project.pdb
