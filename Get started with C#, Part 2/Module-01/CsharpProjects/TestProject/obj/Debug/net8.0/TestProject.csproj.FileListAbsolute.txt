@@ -1,0 +1,15 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 2\Module-01\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
