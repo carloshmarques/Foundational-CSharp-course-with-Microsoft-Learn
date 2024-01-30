@@ -1,5 +1,7 @@
 # Install and configure Visual Studio Code
 
+* Link: <https://learn.microsoft.com/en-us/training/modules/install-configure-visual-studio-code/>
+
 * 35 min Module 9 Units
 
 ## Visual Studio Code
