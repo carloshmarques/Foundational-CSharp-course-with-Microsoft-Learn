@@ -53,7 +53,7 @@ It consists of 6 parts and each part is subdivided into learning modules, which 
 ## 📝 **Additional notes**
 
 * About Visual Studio Code usage.
-* Regarding the use of Visual Studio Code, although this course is focused on using Visual Code, I personally prefer the Visual Studio IDE, so I will install Visual Code and configure it, but I will continue to use Visual Studio Community whenever i can use it, although you like Visual Code.
+* Regarding the use of Visual Studio Code, although this course is focused on using Visual Code, I personally prefer the Visual Studio IDE, so I will install Visual Code and configure it, but I will continue to use Visual Studio Community whenever i can use it, but i like Visual Code though.
 
 ---
 
