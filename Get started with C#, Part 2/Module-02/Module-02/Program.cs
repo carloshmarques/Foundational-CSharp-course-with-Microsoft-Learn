@@ -14,51 +14,28 @@ namespace Module_02
             // link: https://learn.microsoft.com/en-us/training/modules/csharp-call-methods/
 
             // Unit-3
-
-            // Exercise - Call the methods of a .NET Class
-
-            /*
-            *  From your previous experience with the Console.WriteLine() method, 
-            *  you should already know the basics:
-            *  Start by typing the class name. In this case, the class name is Console.
-            *  Add the member access operator, the . symbol.
-            *  Add the method's name. In this case, the method's name is WriteLine.
-            *  Add the method invocation operator, which is a set of parentheses ().
-            *  Finally, specify the arguments that are passed to the method, 
-            *  if there are any, between the parentheses of the method invocation operator. 
-            *  In this case, you specify the text that you want the Console.WriteLine() method to write to the console 
-            *  (for example, "Hello World!").
-            *  Optionally, 
-            *  depending on how the developers designed and implemented the given method, you may also need to:
-            *  
-            *  Pass additional values as input parameters.
-            *  Accept a return value.
-            *  In the next unit, 
-            *  you'll examine how to pass input values to a method,
-            *  and how a method can be used to return a value to the calling routine.
-            *  
-            *  While some methods can be called the same way that you called Console.WriteLine(), 
-            *  there are other methods in the .NET Class Library that require a different approach.
-            */
-
             // Call different kinds of methods in the .NET Class Library
-            // Create a code sample that implements methods of the System.Random and System.Console classes
 
+            // Creating an instance of a class
+            // An instance of a class is called an object.
+            // To create a new instance of a class, you use the new operator.
+            // Consider the following line of code that creates a new instance of the Random class to create a new object called dice:
             Random dice = new Random();
-            // This code simulates a dice roll using the Random.Next() method to generate a number,
-            // and the Console.WriteLine() method to display the value.
-            int roll = dice.Next(1, 7);
-            Console.WriteLine(roll);
-
             /*
-             * On the third code line,
-             * you include a reference to the Console class and call the Console.WriteLine() method directly. 
-             * However, you use a different technique for calling the Random.Next() method. 
-             * The reason why you're using two different techniques is because some methods are stateful and others are stateless. 
-             * Your next step is to examine the difference between stateful and stateless methods.
-             * 
+             * The new operator does several important things:
+             * It first requests an address in the computer's memory large enough to store a new object based on the Random class.
+             * It creates the new object, and stores it at the memory address.
+             * It returns the memory address so that it can be saved in the dice variable.
+             * From that point on, when the dice variable is referenced,
+             * the .NET Runtime performs a lookup behind the scenes to give the illusion that you're working directly with the object itself.
              */
 
+            // How can you determine whether you need to create an instance of a class before calling its methods?
+            // Accessing the Random.Next() method:
+            int roll = dice.Next(1, 7);
+
+            // Display the code to console.
+            Console.WriteLine(roll);
             /*
              *  Recap
              *  
