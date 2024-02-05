@@ -32,8 +32,7 @@ namespace Unit_4
 
             foreach (string orderID in OrderIDs)
             {
-               
-
+              
                 if (orderID.StartsWith("B"))
                 {
                     Console.WriteLine(orderID);
