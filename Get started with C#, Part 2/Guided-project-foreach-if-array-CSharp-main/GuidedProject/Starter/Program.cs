@@ -4,7 +4,6 @@ using System.Runtime.CompilerServices;
 // initialize variables - graded assignments 
 int examAssignments = 5;
 
-
 int[] sophiaScores = new int[] { 90, 86, 87, 98, 100, 94, 90 };
 int[] andrewScores = new int[] { 92, 89, 81, 96, 90, 89 };
 int[] emmaScores = new int[] { 90, 85, 87, 98, 68, 89, 89, 89 };
@@ -13,8 +12,6 @@ int[] beckyScores = new int[] { 92, 91, 90, 91, 92, 92, 92 };
 int[] chrisScores = new int[] { 84, 86, 88, 90, 92, 94, 96, 98 };
 int[] ericScores = new int[] { 80, 90, 100, 80, 90, 100, 80, 90 };
 int[] gregorScores = new int[] { 91, 91, 91, 91, 91, 91, 91 };
-
-
 
 //Student names:
 string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan", "Becky", "Chris", "Eric", "Gregor" };
@@ -127,8 +124,6 @@ foreach (string name in studentNames)
 
 
     Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
-
-    // continue here: https://learn.microsoft.com/en-us/training/modules/guided-project-arrays-iteration-selection/5-exercise-implement-selection-statements
 }
 // required for running in VS Code (keeps the Output windows open to view results)
 Console.WriteLine("Press the Enter key to continue");
