@@ -24,6 +24,9 @@ string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
 // Nested loop to calculate all student scores
 int[] studentScores = new int[10];
 
+// Hold the student's letter grade
+string currentStudentLetterGrade = "";
+
 // Write the Report Header to the console
 Console.WriteLine("Student\t\tGrade\n");
 
@@ -57,7 +60,47 @@ foreach (string name in studentNames)
     }
 
     currentStudentGrade = (decimal)(sumAssignmentScores) / currentAssignments;
-    Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t?");
+
+    // Calculate the and assign student's Grade 
+    if (currentStudentGrade >= 97)
+        currentStudentLetterGrade = "A+";
+
+    else if (currentStudentGrade >= 93)
+        currentStudentLetterGrade = "A";
+
+    else if (currentStudentGrade >= 90)
+        currentStudentLetterGrade = "B+";
+
+    else if (currentStudentGrade >= 87)
+        currentStudentLetterGrade = "B";
+
+    else if (currentStudentGrade >= 80)
+        currentStudentLetterGrade = "B-";
+
+    else if (currentStudentGrade >= 77)
+        currentStudentLetterGrade = "C+";
+
+    else if (currentStudentGrade >= 73)
+        currentStudentLetterGrade = "C";
+
+    else if (currentStudentGrade >= 70)
+        currentStudentLetterGrade = "C-";
+
+    else if (currentStudentGrade >= 67)
+        currentStudentLetterGrade = "D+";
+
+    else if (currentStudentGrade >= 63)
+        currentStudentLetterGrade = "D";
+
+    else if (currentStudentGrade >= 60)
+        currentStudentLetterGrade = "D-";
+
+    else
+        currentStudentLetterGrade = "F";
+
+    Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
+
+    // continue here: https://learn.microsoft.com/en-us/training/modules/guided-project-arrays-iteration-selection/5-exercise-implement-selection-statements
 }
 Console.WriteLine("Press the Enter key to continue");
 Console.ReadLine();
