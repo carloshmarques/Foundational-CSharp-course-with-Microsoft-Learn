@@ -41,6 +41,17 @@ namespace Module_05
             {
                 Console.WriteLine(orderID);
             }
+
+            /*
+             *  Recap
+             *  
+                The main takeaways from this exercise:
+                Use code comments to leave meaningful notes to yourself about the problem your code solves.
+                Don't use code comments that explain how C# or the .NET Class Library works.
+                Use code comments when temporarily trying alternative solutions until you're ready to commit to the new code solution, 
+                at which point you can delete the old code.
+                Never trust comments. They may not reflect the current state of the code after many changes and updates.
+             */
         }
     }
 }
