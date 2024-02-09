@@ -13,7 +13,7 @@ This C# console application is designed to:
 
 Student         Exam Score      Overall Grade   Extra Credit
 
-Sophia          92.2            95.88   A       92 (3.68 pts)
+Sophia          92.2            95.88   A      92 (3.68 pts)
 
 */
 int examAssignments = 5;

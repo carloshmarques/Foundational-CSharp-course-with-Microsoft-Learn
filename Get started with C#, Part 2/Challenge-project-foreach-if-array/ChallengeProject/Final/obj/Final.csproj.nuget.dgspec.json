@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Foundational-CSharp-course-with-Microsoft-Learn\\Get started with C#, Part 2\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj": {}
+    "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Foundational-CSharp-course-with-Microsoft-Learn\\Get started with C#, Part 2\\Challenge-project-foreach-if-array\\ChallengeProject\\Final\\Final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Foundational-CSharp-course-with-Microsoft-Learn\\Get started with C#, Part 2\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj": {
+    "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Foundational-CSharp-course-with-Microsoft-Learn\\Get started with C#, Part 2\\Challenge-project-foreach-if-array\\ChallengeProject\\Final\\Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Foundational-CSharp-course-with-Microsoft-Learn\\Get started with C#, Part 2\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+        "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Foundational-CSharp-course-with-Microsoft-Learn\\Get started with C#, Part 2\\Challenge-project-foreach-if-array\\ChallengeProject\\Final\\Final.csproj",
         "projectName": "Final",
-        "projectPath": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Foundational-CSharp-course-with-Microsoft-Learn\\Get started with C#, Part 2\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+        "projectPath": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Foundational-CSharp-course-with-Microsoft-Learn\\Get started with C#, Part 2\\Challenge-project-foreach-if-array\\ChallengeProject\\Final\\Final.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Foundational-CSharp-course-with-Microsoft-Learn\\Get started with C#, Part 2\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\obj\\",
+        "outputPath": "C:\\Users\\carlo\\OneDrive\\Documentos\\Github\\master\\Foundational-CSharp-course-with-Microsoft-Learn\\Get started with C#, Part 2\\Challenge-project-foreach-if-array\\ChallengeProject\\Final\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
