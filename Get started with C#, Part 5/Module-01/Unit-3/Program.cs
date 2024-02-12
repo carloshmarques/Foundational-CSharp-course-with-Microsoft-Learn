@@ -10,6 +10,9 @@ namespace Unit_3
     {
         static void Main(string[] args)
         {
+            // https://learn.microsoft.com/en-us/training/modules/write-first-c-sharp-method/3-exercise-create-your-first-method
+            // Exercise - Create your first method
+
         }
     }
 }
