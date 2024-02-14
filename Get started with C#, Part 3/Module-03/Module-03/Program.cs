@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,16 +21,30 @@ namespace Module_03
             // Exercise - Implement a switch statement
             // Create and test a switch statement
             // Code here:
-            int employeeLevel = 200;
+            // 
+            // int employeeLevel = 200;
+            // Change the level variable value to see how the switch statement evaluates it
+            // int employeeLevel = 201;
+
+            // Modify a switch section to include multiple labels
+            int employeeLevel = 100;
+
             string employeeName = "John Smith";
 
             string title = "";
 
             switch (employeeLevel)
             {
+                /*
                 case 100:
                     title = "Junior Associate";
                     break;
+                case 200:
+                    title = "Senior Associate";
+                    break;
+                */
+
+                case 100:
                 case 200:
                     title = "Senior Associate";
                     break;
@@ -46,7 +61,13 @@ namespace Module_03
 
             Console.WriteLine($"{employeeName}, {title}");
 
-            // Continue: tomorrow
+            /*
+             * Recap
+             * Here's the main takeaways you learned about the switch statement:
+             * Use the switch statement when you have one value with many possible matches, each match requiring a branch in your code logic.
+             * A single switch section containing code logic can be matched using one or more labels defined by the case keyword.
+             * Use the optional default keyword to create a label and a switch section that will be used when no other case labels match.
+             */
 
         }
     }
