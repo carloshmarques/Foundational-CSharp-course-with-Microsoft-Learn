@@ -42,10 +42,13 @@ data types, control structures, and object-oriented programming principles.
 It consists of 6 parts and each part is subdivided into learning modules, which in turn are subdivided into smaller units.
 * See more on the Microsoft Learn website.
 
-<!-- --- -->
+ --- 
 
-<!-- ## 🌲 **Project tree**-->
-
+ ## 🌲 **Project tree**
+ 
+* This repository includes a GitHub workflow that generates a treemap visualization. The workflow is triggered on every push to the main branch.
+* The treemap is created using [insert library or framework name here], and the workflow is defined in `.github/workflows/treemap.yml`.
+* For more details on the workflow, see the workflow file.
 <!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] -->
 
 ---
