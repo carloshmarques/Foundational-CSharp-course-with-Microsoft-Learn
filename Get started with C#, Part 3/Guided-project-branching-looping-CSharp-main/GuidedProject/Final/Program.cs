@@ -124,7 +124,7 @@ do
 
             break;
 
-        case "2":
+        case "2": // continue this blok code
             // Add a new animal friend to the ourAnimals array
             string anotherPet = "y";
             int petCount = 0;

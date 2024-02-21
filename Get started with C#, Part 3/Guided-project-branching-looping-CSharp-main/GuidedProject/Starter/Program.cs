@@ -13,9 +13,6 @@ string menuSelection = "";
 
 // array used to store runtime data, there is no persisted data
 string[,] ourAnimals = new string[maxPets, 6];
-
-// TODO: Convert the if-elseif-else construct to a switch statement
-
 // create some initial ourAnimals array entries
 for (int i = 0; i < maxPets; i++)
 {
@@ -69,6 +66,12 @@ for (int i = 0; i < maxPets; i++)
             break;
 
     }
+    ourAnimals[i, 0] = "ID #: " + animalID;
+    ourAnimals[i, 1] = "Species: " + animalSpecies;
+    ourAnimals[i, 2] = "Age: " + animalAge;
+    ourAnimals[i, 3] = "Nickname: " + animalNickname;
+    ourAnimals[i, 4] = "Physical description: " + animalPhysicalDescription;
+    ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
 }
 
 // Create program menu loop
@@ -106,16 +109,90 @@ do
     {
         case "1":
             // List all of our current pet information
-            Console.WriteLine("this app feature is coming soon - please check back to see progress.");
-            Console.WriteLine("Press the Enter key to continue.");
+
+           for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 0] != "ID #: " )
+                {
+                    Console.WriteLine();
+                    // for loop that will iterate through the characteristics of each pet
+
+                    for (int j = 0; j <6; j++)
+                    {
+                        Console.WriteLine(ourAnimals[i, j]);
+
+                    }
+
+                }
+            }
+
+            Console.WriteLine("\n\rPress the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
 
-        case "2":
+        case "2":     
             // Add a new animal friend to the ourAnimals array
-            Console.WriteLine("this app feature is coming soon - please check back to see progress.");
-            Console.WriteLine("Press the Enter key to continue.");
-            readResult = Console.ReadLine();
+
+            // Count the number of pets in the ourAnimals array
+            string anotherPet = "y";
+            int petCount = 0;
+
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 0] != "ID #: ")
+                {
+                    petCount += 1;
+                }
+            }
+
+            // Count the available pets:
+
+            if (petCount < maxPets)
+            {
+                Console.WriteLine($"We currently have {petCount} pets that need homes. We can manage {(maxPets - petCount)} more.");
+            }
+
+            // Build a loop structure that will be used for entering new ourAnimals array data
+            while (anotherPet == "y" && petCount < maxPets)
+            {
+                // Build loop to read and validate the pet species
+                bool validEntry = false;
+
+                // get species (cat or dog) - string animalSpecies is a required field 
+                do
+                {
+                    // continue here:
+                    // https://learn.microsoft.com/en-us/training/modules/guided-project-develop-conditional-branching-looping/6-exercise-read-save-array-data
+                } while (validEntry == false);
+                
+
+                // increment petCount (the array is zero-based, so we increment the counter after adding to the array)
+                petCount = petCount + 1;
+                // check maxPet limit
+                if (petCount < maxPets)
+                {
+                    // another pet?
+                    Console.WriteLine("Do you want to enter info for another pet (y/n)");
+                    do
+                    {
+                        readResult = Console.ReadLine();
+                        if (readResult != null)
+                        {
+                            anotherPet = readResult.ToLower();
+                        }
+
+                    } while (anotherPet != "y" && anotherPet != "n");
+                                                
+                }
+            }
+
+            if (petCount >= maxPets)
+            {
+                Console.WriteLine("We have reached our limit on the number of pets that we can manage.");
+                Console.WriteLine("Press the Enter key to continue.");
+                readResult = Console.ReadLine();
+            }
+
             break;
 
         case "3":
