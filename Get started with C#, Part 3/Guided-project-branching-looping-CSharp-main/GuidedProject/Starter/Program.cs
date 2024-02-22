@@ -161,10 +161,136 @@ do
                 // get species (cat or dog) - string animalSpecies is a required field 
                 do
                 {
-                    // continue here:
-                    // https://learn.microsoft.com/en-us/training/modules/guided-project-develop-conditional-branching-looping/6-exercise-read-save-array-data
+                    // display prompt and read the user input
+                    Console.WriteLine("\n\rEnter 'dog' or 'cat' to begin a new entry");
+                    readResult = Console.ReadLine();
+
+                    // To ensure that the value of readResult is NOT null before assigning the value of readResult to animalSpecies
+                    if (readResult != null)
+                    {
+                        animalSpecies = readResult.ToLower();
+
+                        // to ensure that animalSpecies contains a valid species name;
+                        if (animalSpecies != "dog" && animalSpecies != "cat")
+                        {
+                            validEntry = false;
+                        }
+                        else
+                        {
+                            validEntry = true;
+                        }
+
+                    }
+
                 } while (validEntry == false);
-                
+
+                // Construct the animal ID value
+                // build the animal the ID number - for example C1, C2, D3 (for Cat 1, Cat 2, Dog 3)
+                animalID = animalSpecies.Substring(0, 1) + (petCount + 1).ToString();
+
+                // get the pet's age. can be ? at initial entry. 
+                do
+                {
+                    int petAge;
+
+                    // to display a message prompt and read the user input
+                    Console.WriteLine("Enter the pet's age or enter ? if unknown");
+                    readResult = Console.ReadLine();
+
+                    // To ensure that the value of readResult isn't null before assigning the value of readResult to animalAge
+                    if (readResult != null)
+                    {
+                        animalAge = readResult;
+
+                        // to check whether the user entered ? before testing for a valid integer
+                        if (animalAge != "?")
+                        {
+                            validEntry = int.TryParse(animalAge, out petAge);
+                        }
+                        else
+                        {
+                            validEntry = true;
+                        }
+
+                    }
+
+                } while (validEntry == false);
+
+                // Build loop to read and validate the pet's physical description
+
+                // get a description of the pet's physical appearance/condition - animalPhysicalDescription can be blank.
+                do
+                {
+                    Console.WriteLine("Enter a physical description of the pet (size, color, gender, weight, housebroken)");
+                    readResult = Console.ReadLine();
+
+                    // To ensure that the value of readResult isn't null before assigning the value of readResult to animalPhysicalDescription
+                    if (readResult != null)
+                    {
+                        animalPhysicalDescription = readResult.ToLower();
+
+                        // To assign a value of "tbd" to animalPhysicalDescription when the value entered is ""
+                        if (animalPhysicalDescription == "")
+                        {
+
+                            animalPhysicalDescription = "tbd";
+                        }
+
+                    }
+                } while (animalPhysicalDescription == "");
+
+
+                // Build loop to read and validate the pet's personality description
+
+                // get a description of the pet's personality - animalPersonalityDescription can be blank.
+                do
+                {
+
+                    Console.WriteLine("Enter a description of the pet's personality (likes or dislikes, tricks, energy level)");
+                    readResult = Console.ReadLine();
+
+                    if (readResult != null)
+                    {
+                        animalPersonalityDescription = readResult.ToLower();
+
+                        if (animalPersonalityDescription == "")
+                        {
+                            animalPersonalityDescription = "tbd";
+                        }
+
+                    }
+
+                } while (animalPersonalityDescription == "");
+
+                // Build loop to read and validate the pet's nickname
+
+                // get the pet's nickname. animalNickname can be blank.
+                do
+                {
+                    Console.WriteLine("Enter a nickname for the pet");
+                    readResult = Console.ReadLine();
+                    if (readResult != null)
+                    {
+                        animalNickname = readResult.ToLower();
+                        if (animalNickname == "")
+                        {
+                            animalNickname = "tbd";
+                        }
+
+                    }
+
+                } while (animalNickname == "");
+
+                // Save the new pet information
+
+                // store the pet information in the ourAnimals array (zero based)
+                ourAnimals[petCount, 0] = "ID #: " + animalID;
+                ourAnimals[petCount, 1] = "Species: " + animalSpecies;
+                ourAnimals[petCount, 2] = "Age: " + animalAge;
+                ourAnimals[petCount, 3] = "Nickname: " + animalNickname;
+                ourAnimals[petCount, 4] = "Physical description: " + animalPhysicalDescription;
+                ourAnimals[petCount, 5] = "Personality: " + animalPersonalityDescription;
+
 
                 // increment petCount (the array is zero-based, so we increment the counter after adding to the array)
                 petCount = petCount + 1;
