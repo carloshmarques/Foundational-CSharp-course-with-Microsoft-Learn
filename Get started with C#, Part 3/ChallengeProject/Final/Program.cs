@@ -308,7 +308,7 @@ do
                     ourAnimals[i, 2] = "Age: " + animalAge.ToString();
                 }
 
-                if (ourAnimals[i, 4] == "Physical description: " && ourAnimals[i, 0] != "ID #: ")
+               if (ourAnimals[i, 4] ==  "Physical description: " && ourAnimals[i, 0] != "ID #: ")
                 {
                     do
                     {
