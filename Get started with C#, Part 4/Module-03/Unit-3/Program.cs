@@ -34,6 +34,7 @@ namespace Unit_3
 
             // Finalize the receipt with the total amount due formatted as currency
             Console.WriteLine($"     Total Billed: {total:C}");
+
         }
     }
 }
