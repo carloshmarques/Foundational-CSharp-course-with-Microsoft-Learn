@@ -20,10 +20,16 @@ namespace Unit_4
 
             // Reverse, then combine the char array into a new string
             Array.Reverse(valueArray);
-            string result = new string(valueArray);
+            // string result = new string(valueArray);
+            string result = String.Join(",", valueArray);
             Console.WriteLine(result);
 
-            // continue here: 
+            // Split() the comma-separated-value string into an array of strings
+            string[] items = result.Split(',');
+            foreach (string item in items)
+            {
+                Console.WriteLine(item);
+            }
 
         }
     }
