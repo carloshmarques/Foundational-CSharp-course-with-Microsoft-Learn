@@ -41,7 +41,6 @@ namespace Unit_4
             }
             Console.WriteLine($"Message: {message}");
             Console.WriteLine($"Total: {total}");
-
         }
     }
 }
