@@ -1,5 +1,7 @@
 using System;
 
+// https://learn.microsoft.com/en-us/training/modules/challenge-project-work-variable-data-c-sharp/
+
 // ourAnimals array will store the following: 
 string animalSpecies = "";
 string animalID = "";
@@ -137,14 +139,16 @@ do
             while (dogCharacteristic == "")
             {
                 // #2 have user enter multiple comma separated characteristics to search for
-                Console.WriteLine($"\r\nEnter one desired dog characteristic to search for");
+                Console.WriteLine($"\r\nEnter one desired dog characteristic to search for by commas");
                 readResult = Console.ReadLine();
                 if (readResult != null)
                 {
-                    dogCharacteristic = readResult.ToLower().Trim();
+                    dogCharacteristic = readResult.ToLower();
                     Console.WriteLine();
                 }
             }
+
+            // Continue here:
 
             bool noMatchesDog = true;
             string dogDescription = "";
