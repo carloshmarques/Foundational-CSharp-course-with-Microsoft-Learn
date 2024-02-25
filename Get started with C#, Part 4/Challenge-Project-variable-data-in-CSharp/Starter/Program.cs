@@ -180,12 +180,12 @@ do
                     {
                        if (term != null && term.Trim() != "")
                         {
-                            for (int j = 5; j > -1; j--)
+                            for (int j = 2; j > -1; j--)
                             {
                                 // #5 update "searching" message to show countdown 
                                 foreach (string icon in searchingIcons)
                                 {
-                                    Console.Write($"\rsearching our dog {ourAnimals[i, 3]} for {dogCharacteristics} {icon}");
+                                    Console.Write($"\rsearching our dog {ourAnimals[i, 3]} for {term.Trim()} {icon} {j.ToString()}");
                                     Thread.Sleep(100);
                                 }
 
