@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Modile_06
+namespace Module_06
 {
     internal class Program
     {
@@ -144,8 +144,6 @@ namespace Modile_06
                 There's often more than one way to solve a problem. You used two separate techniques to find all instances of a given character or string.
                 Avoid hardcoded magic values. Instead, define a const variable. A constant variable's value can't be changed after initialization.
              */
-
         }
-
     }
 }
