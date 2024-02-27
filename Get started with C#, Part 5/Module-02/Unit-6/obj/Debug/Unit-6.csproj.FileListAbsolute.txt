@@ -1,0 +1,7 @@
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 5\Module-02\Unit-6\bin\Debug\Unit-6.exe.config
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 5\Module-02\Unit-6\bin\Debug\Unit-6.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 5\Module-02\Unit-6\bin\Debug\Unit-6.pdb
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 5\Module-02\Unit-6\obj\Debug\Unit-6.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 5\Module-02\Unit-6\obj\Debug\Unit-6.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 5\Module-02\Unit-6\obj\Debug\Unit-6.exe
+C:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 5\Module-02\Unit-6\obj\Debug\Unit-6.pdb
