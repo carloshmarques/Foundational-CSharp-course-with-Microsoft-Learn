@@ -59,6 +59,16 @@ namespace Module_03
                 // Format the double so only 2 decimal places are displayed
                 return input.ToString().Substring(0, 5);
             }
+
+            /*
+             * Recap
+                Here's what you've learned about the return keyword so far:
+
+                Methods can return a value by specifying the return data type, or void for no return value
+                The return keyword can be used with variables, literals, and expressions
+                The value returned from a method must match the specified return type
+                Data returned from methods can be captured and used by the caller of the method
+             */
         }
     }
 }
