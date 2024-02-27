@@ -39,11 +39,5 @@ namespace Unit_4
             }
             return result;
         }
-
-        // Continue here:
-        // https://learn.microsoft.com/en-us/training/modules/create-c-sharp-methods-return-values/5-exercise-create-methods-return-booleans
-
-
-
     }
 }
