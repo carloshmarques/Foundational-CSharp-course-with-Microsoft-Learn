@@ -42,29 +42,30 @@ data types, control structures, and object-oriented programming principles.
 It consists of 6 parts and each part is subdivided into learning modules, which in turn are subdivided into smaller units.
 * See more on the Microsoft Learn website.
 
- --- 
+ <!-- 
 
  ## 🌲 **Project tree**
- 
+
 * This repository includes a GitHub workflow that generates a treemap visualization. The workflow is triggered on every push to the main branch.
 * The treemap is created using [insert library or framework name here], and the workflow is defined in `.github/workflows/treemap.yml`.
 * For more details on the workflow, see the workflow file.
-<!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] -->
+<!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] --
 
----
+-->
 
 ## 📝 **Additional notes**
 
 * About Visual Studio Code usage.
 * Regarding the use of Visual Studio Code, although this course is focused on using Visual Code, I personally prefer the Visual Studio IDE, so I will install Visual Code and configure it, but I will continue to use Visual Studio Community whenever i can use it, but i like Visual Code though.
+* Regarding the final part of the course, as the modules are oriented towards visual code and I'm not a big fan of it, perhaps because I started my studies in Visual Studio and I'm used to it, I just went through the modules and answered the questions questions, then I took the certification exam and I am pleased to announce that I passed with 97% correct answers.
 
----
+<!-- -
 
 ## 📸 **Screenshots**
 
-<!-- ... [SOME DESCRIPTIVE IMAGES] -->
+<!-- ... [SOME DESCRIPTIVE IMAGES] --
 
----
+-->
 
 ## 🍰 **Supporters and donators**
 
@@ -72,7 +73,6 @@ It consists of 6 parts and each part is subdivided into learning modules, which 
 <a href="https://github.com/carloshmarques/Foundational CSharp-course-with-Microsoft-Learn">
   <img alt="@carloshmarques/Foundational CSharp-course-with-Microsoft-Learn's brand logo without text" align="right"  src="https://i.imgur.com/EywWORF.png" width="10%" />
 </a>
-
 
 We are currently looking for new donators to help and maintain this project! ❤️
 
