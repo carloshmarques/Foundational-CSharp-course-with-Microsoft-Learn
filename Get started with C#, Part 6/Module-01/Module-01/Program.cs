@@ -13,7 +13,7 @@ namespace Module_01
             // https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-6/
 
             // Review the principles of code debugging and exception handling
-            https://learn.microsoft.com/en-us/training/modules/review-principles-code-debugging-exception-handling-c-sharp/
+            // https://learn.microsoft.com/en-us/training/modules/review-principles-code-debugging-exception-handling-c-sharp/
 
             // Unit-1
             // Introduction

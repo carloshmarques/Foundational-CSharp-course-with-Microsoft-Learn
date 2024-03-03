@@ -86,7 +86,7 @@ By donating, you will help the development of this project, and *you will be fea
 
 Foundational-CSharp-course-with-Microsoft-Learn was generated from *[Josee9988/project-template](https://github.com/Josee9988/project-template)* 📚
 
----
+<!---
 
 ## 🕵️ Extra recommendations
 
