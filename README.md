@@ -70,7 +70,7 @@ It consists of 6 parts and each part is subdivided into learning modules, which 
 
 <!-- Change your small logo -->
 <a href="https://github.com/carloshmarques/Foundational CSharp-course-with-Microsoft-Learn">
-  <img alt="@carloshmarques/Foundational CSharp-course-with-Microsoft-Learn's brand logo without text" align="right"  src="https://i.imgur.com/EywWORF.png" width="10%" />
+  <img alt="@carloshmarques/Foundational CSharp-course-with-Microsoft-Learn's brand logo without text" align="right"  src="https://i.imgur.com/i8hCIzh.jpg" width="10%" />
 </a>
 
 We are currently looking for new donators to help and maintain this project! ❤️
