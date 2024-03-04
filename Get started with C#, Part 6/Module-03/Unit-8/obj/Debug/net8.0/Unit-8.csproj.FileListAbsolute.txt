@@ -1,0 +1,15 @@
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\bin\Debug\net8.0\Unit-8.exe
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\bin\Debug\net8.0\Unit-8.deps.json
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\bin\Debug\net8.0\Unit-8.runtimeconfig.json
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\bin\Debug\net8.0\Unit-8.dll
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\bin\Debug\net8.0\Unit-8.pdb
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\obj\Debug\net8.0\Unit-8.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\obj\Debug\net8.0\Unit-8.AssemblyInfoInputs.cache
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\obj\Debug\net8.0\Unit-8.AssemblyInfo.cs
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\obj\Debug\net8.0\Unit-8.csproj.CoreCompileInputs.cache
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\obj\Debug\net8.0\Unit-8.sourcelink.json
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\obj\Debug\net8.0\Unit-8.dll
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\obj\Debug\net8.0\refint\Unit-8.dll
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\obj\Debug\net8.0\Unit-8.pdb
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\obj\Debug\net8.0\Unit-8.genruntimeconfig.cache
+c:\Users\carlo\OneDrive\Documentos\Github\master\Foundational-CSharp-course-with-Microsoft-Learn\Get started with C#, Part 6\Module-03\Unit-8\obj\Debug\net8.0\ref\Unit-8.dll
