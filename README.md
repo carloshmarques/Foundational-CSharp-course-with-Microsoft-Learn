@@ -57,7 +57,6 @@ It consists of 6 parts and each part is subdivided into learning modules, which 
 
 * About Visual Studio Code usage.
 * Regarding the use of Visual Studio Code, although this course is focused on using Visual Code, I personally prefer the Visual Studio IDE, so I will install Visual Code and configure it, but I will continue to use Visual Studio Community whenever i can use it, but i like Visual Code though.
-* Regarding the final part of the course, as the modules are oriented towards visual code and I'm not a big fan of it, perhaps because I started my studies in Visual Studio and I'm used to it, I just went through the modules and answered the questions questions, then I took the certification exam and I am pleased to announce that I passed with 97% correct answers.
 
 <!-- -
 
